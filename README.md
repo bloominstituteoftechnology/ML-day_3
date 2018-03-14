@@ -10,6 +10,11 @@
 2. Functions convert information from one type to another
   * y = a result
   * x = a data sample
+3. Functions have many shapes
+  * linear
+  * polynomial
+  * exp/log
+  * ... more!
 3. Machine Learning = Derivative Computation
   * dy/dx(f(x))
   * Where the derivative changes direction is an optimum
@@ -19,5 +24,6 @@
 
 # Assignment:
 
-Start with the LSMLMBC github assignment. The rest of the information you need will be delivered tomorrow. Send a pull request with your completed assignment after the lesson tomorrow.
+Start with the LSMLMBC github assignment: https://github.com/LambdaSchool/ML-Precourse. The rest of the information you need will be delivered tomorrow. Send a pull request with your completed assignment after the lesson tomorrow.
+
 
